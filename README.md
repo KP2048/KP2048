@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kernel Panic
 #### I am a hobbyist software developer
-![I am a hobbyist software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a hobbyist software developer](https://cdn.discordapp.com/banners/354014833349492737/a38f0919d3b231bea1c1e3f9c1fb8ab3?size=4096)
 
 I make mods for the video game "Minecraft", as well as "Terraria". I also make Decky Loader plugins for the Valve Steam Deck. I use arch btw
 
