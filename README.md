@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, my name is Kernel Panic
+#### I am a hobbyist software developer
+![I am a hobbyist software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**KP2048/KP2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make mods for the video game "Minecraft", as well as "Terraria". I also make Decky Loader plugins for the Valve Steam Deck. I use arch btw
 
-Here are some ideas to get you started:
+Skills: Kotlin | Java | TypeScript | C++ | C# | Compose Multiplatform | React | Linux | Reverse Engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KP2048)  
+
+![GitHub metrics](https://metrics.lecoq.io/KP2048)  
+
